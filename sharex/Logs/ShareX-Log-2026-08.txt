@@ -1,0 +1,143 @@
+﻿2026-08-22 07:45:10.894 - ShareX starting.
+2026-08-22 07:45:10.897 - Version: 21.0
+2026-08-22 07:45:10.897 - Build: MicrosoftStore
+2026-08-22 07:45:10.897 - Command line: "C:\Program Files\WindowsApps\19568ShareX.ShareX_21.0.0.0_x64__egrzcvs15399j\ShareX.dll"
+2026-08-22 07:45:10.899 - Personal path: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex
+2026-08-22 07:45:10.899 - Personal path detection method: PersonalPath.cfg file (C:\Users\ADMIN\Documents\ShareX\PersonalPath.cfg)
+2026-08-22 07:45:10.900 - Operating system: Windows 10 Pro (64-bit)
+2026-08-22 07:45:10.901 - .NET version: 9.0.17
+2026-08-22 07:45:10.901 - Running as elevated process: False
+2026-08-22 07:45:10.943 - Avalonia init started.
+2026-08-22 07:45:11.353 - Avalonia init finished.
+2026-08-22 07:45:11.362 - ApplicationConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\ApplicationConfig.json
+2026-08-22 07:45:11.362 - ApplicationConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\ApplicationConfig.json.temp
+2026-08-22 07:45:11.362 - ApplicationConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Backup\ApplicationConfig.json
+2026-08-22 07:45:11.362 - Loading new ApplicationConfig instance.
+2026-08-22 07:45:11.541 - MainForm init started.
+2026-08-22 07:45:11.544 - UploadersConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\UploadersConfig.json
+2026-08-22 07:45:11.544 - UploadersConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\UploadersConfig.json.temp
+2026-08-22 07:45:11.544 - UploadersConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Backup\UploadersConfig.json
+2026-08-22 07:45:11.544 - Loading new UploadersConfig instance.
+2026-08-22 07:45:11.556 - HotkeysConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\HotkeysConfig.json
+2026-08-22 07:45:11.556 - HotkeysConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\HotkeysConfig.json.temp
+2026-08-22 07:45:11.556 - HotkeysConfig file does not exist: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Backup\HotkeysConfig.json
+2026-08-22 07:45:11.556 - Loading new HotkeysConfig instance.
+2026-08-22 07:45:12.022 - MainForm init finished.
+2026-08-22 07:45:12.279 - Hotkey registered: Hotkey: Ctrl + Print Screen, Description: Capture region, Job: RectangleRegion
+2026-08-22 07:45:12.280 - Hotkey registered: Hotkey: Print Screen, Description: Capture entire screen, Job: PrintScreen
+2026-08-22 07:45:12.281 - Hotkey registered: Hotkey: Alt + Print Screen, Description: Capture active window, Job: ActiveWindow
+2026-08-22 07:45:12.281 - Hotkey registered: Hotkey: Shift + Print Screen, Description: Start/Stop screen recording, Job: ScreenRecorder
+2026-08-22 07:45:12.281 - Hotkey registered: Hotkey: Ctrl + Shift + Print Screen, Description: Start/Stop screen recording (GIF), Job: ScreenRecorderGIF
+2026-08-22 07:45:12.283 - HotkeyManager started.
+2026-08-22 07:45:12.283 - WatchFolderManager started.
+2026-08-22 07:45:12.350 - Startup time: 1958 ms
+2026-08-22 07:45:30.240 - Hotkey unregistered: Hotkey: None, Description: Capture region, Job: RectangleRegion
+2026-08-22 07:45:30.698 - Hotkey registered: Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 07:45:31.391 - HotkeysConfig save started: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\HotkeysConfig.json
+2026-08-22 07:45:31.541 - HotkeysConfig save successful: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\HotkeysConfig.json
+2026-08-22 07:45:32.202 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 07:45:32.204 - Executing: Capture region
+2026-08-22 07:45:33.386 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 07:45:33.471 - Task status: Preparing
+2026-08-22 07:45:33.507 - Image copied to clipboard.
+2026-08-22 07:45:33.537 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\WindowsTerminal_440TN3zydN.png
+2026-08-22 07:45:33.571 - Task completed. File name: WindowsTerminal_440TN3zydN.png, Duration: 93 ms
+2026-08-22 07:45:47.846 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 07:45:47.846 - Executing: Capture region
+2026-08-22 07:45:48.949 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 07:45:48.989 - Task status: Preparing
+2026-08-22 07:45:49.013 - Image copied to clipboard.
+2026-08-22 07:45:49.025 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\WindowsTerminal_j5TBDmjK93.png
+2026-08-22 07:45:49.052 - Task completed. File name: WindowsTerminal_j5TBDmjK93.png, Duration: 64 ms
+2026-08-22 07:46:03.852 - ApplicationConfig save started: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\ApplicationConfig.json
+2026-08-22 07:46:03.853 - UploadersConfig save started: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\UploadersConfig.json
+2026-08-22 07:46:03.856 - HotkeysConfig save started: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\HotkeysConfig.json
+2026-08-22 07:46:03.910 - HotkeysConfig save successful: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\HotkeysConfig.json
+2026-08-22 07:46:03.987 - UploadersConfig save successful: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\UploadersConfig.json
+2026-08-22 07:46:04.100 - ApplicationConfig save successful: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\ApplicationConfig.json
+2026-08-22 07:54:14.969 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 07:54:14.969 - Executing: Capture region
+2026-08-22 07:54:17.518 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 07:54:17.539 - Task status: Preparing
+2026-08-22 07:54:17.557 - Image copied to clipboard.
+2026-08-22 07:54:17.569 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_EB12dYrNqX.png
+2026-08-22 07:54:17.574 - Task completed. File name: chrome_EB12dYrNqX.png, Duration: 37 ms
+2026-08-22 09:21:17.084 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 09:21:17.088 - Executing: Capture region
+2026-08-22 09:21:20.510 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 09:21:20.619 - Task status: Preparing
+2026-08-22 09:21:20.642 - Image copied to clipboard.
+2026-08-22 09:21:20.685 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_xQ19FtQB29.png
+2026-08-22 09:21:20.696 - Task completed. File name: chrome_xQ19FtQB29.png, Duration: 78 ms
+2026-08-22 09:32:49.370 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 09:32:49.370 - Executing: Capture region
+2026-08-22 09:32:52.452 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 09:32:52.479 - Task status: Preparing
+2026-08-22 09:32:52.525 - Image copied to clipboard.
+2026-08-22 09:32:52.551 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_WFpWedQY1E.png
+2026-08-22 09:32:52.566 - Task completed. File name: chrome_WFpWedQY1E.png, Duration: 88 ms
+2026-08-22 10:25:15.539 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 10:25:15.542 - Executing: Capture region
+2026-08-22 10:25:17.104 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 10:25:17.169 - Task status: Preparing
+2026-08-22 10:25:17.192 - Image copied to clipboard.
+2026-08-22 10:25:17.238 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_zJyOEbR5bo.png
+2026-08-22 10:25:17.252 - Task completed. File name: chrome_zJyOEbR5bo.png, Duration: 82 ms
+2026-08-22 10:32:18.141 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 10:32:18.142 - Executing: Capture region
+2026-08-22 10:32:20.328 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 10:32:20.373 - Task status: Preparing
+2026-08-22 10:32:20.389 - Image copied to clipboard.
+2026-08-22 10:32:20.403 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\WindowsTerminal_bHJzHoZNzn.png
+2026-08-22 10:32:20.417 - Task completed. File name: WindowsTerminal_bHJzHoZNzn.png, Duration: 45 ms
+2026-08-22 11:02:27.292 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 11:02:27.295 - Executing: Capture region
+2026-08-22 11:02:29.491 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 11:02:29.595 - Task status: Preparing
+2026-08-22 11:02:29.632 - Image copied to clipboard.
+2026-08-22 11:02:29.697 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\WindowsTerminal_ZsvqpMKXil.png
+2026-08-22 11:02:29.712 - Task completed. File name: WindowsTerminal_ZsvqpMKXil.png, Duration: 118 ms
+2026-08-22 11:11:47.504 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 11:11:47.504 - Executing: Capture region
+2026-08-22 11:11:50.538 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 11:11:50.589 - Task status: Preparing
+2026-08-22 11:11:50.655 - Image copied to clipboard.
+2026-08-22 11:11:50.757 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\WindowsTerminal_lAPNNHUr3Y.png
+2026-08-22 11:11:50.783 - Task completed. File name: WindowsTerminal_lAPNNHUr3Y.png, Duration: 196 ms
+2026-08-22 11:42:55.810 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 11:42:55.814 - Executing: Capture region
+2026-08-22 11:43:17.764 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 11:43:17.764 - Executing: Capture region
+2026-08-22 11:43:22.043 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 11:43:22.167 - Task status: Preparing
+2026-08-22 11:43:22.201 - Image copied to clipboard.
+2026-08-22 11:43:22.254 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_0Zr52CwbTD.png
+2026-08-22 11:43:22.388 - Task completed. File name: chrome_0Zr52CwbTD.png, Duration: 222 ms
+2026-08-22 13:36:43.275 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 13:36:43.277 - Executing: Capture region
+2026-08-22 13:36:46.851 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 13:36:47.044 - Task status: Preparing
+2026-08-22 13:36:47.092 - Image copied to clipboard.
+2026-08-22 13:36:47.159 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_HswUFIWfic.png
+2026-08-22 13:36:47.177 - Task completed. File name: chrome_HswUFIWfic.png, Duration: 140 ms
+2026-08-22 13:51:45.085 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 13:51:45.089 - Executing: Capture region
+2026-08-22 13:51:47.653 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 13:51:47.796 - Task status: Preparing
+2026-08-22 13:51:47.837 - Image copied to clipboard.
+2026-08-22 13:51:47.882 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_yD7jk1UFfj.png
+2026-08-22 13:51:47.907 - Task completed. File name: chrome_yD7jk1UFfj.png, Duration: 118 ms
+2026-08-22 13:58:33.117 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 13:58:33.117 - Executing: Capture region
+2026-08-22 13:58:36.554 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 13:58:36.586 - Task status: Preparing
+2026-08-22 13:58:36.651 - Image copied to clipboard.
+2026-08-22 13:58:36.683 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_7KRsLvx7Cd.png
+2026-08-22 13:58:36.713 - Task completed. File name: chrome_7KRsLvx7Cd.png, Duration: 133 ms
+2026-08-22 13:59:21.984 - Hotkey triggered. Hotkey: Ctrl + Alt + S, Description: Capture region, Job: RectangleRegion
+2026-08-22 13:59:21.984 - Executing: Capture region
+2026-08-22 13:59:26.387 - Task in queue. Job: Job, Type: Image, Host: 
+2026-08-22 13:59:26.413 - Task status: Preparing
+2026-08-22 13:59:26.441 - Image copied to clipboard.
+2026-08-22 13:59:26.476 - Image saved to file: C:\Users\ADMIN\.programming\ai_space\geminicli\sharex\Screenshots\2026-08\chrome_0mYyHcl7Qa.png
+2026-08-22 13:59:26.541 - Task completed. File name: chrome_0mYyHcl7Qa.png, Duration: 130 ms
