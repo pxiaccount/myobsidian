@@ -1,0 +1,358 @@
+{
+  "id": "2c46d66a-edf3-44cb-a59c-d768be1460d2",
+  "title": "Explain pythagorus theorem with examples",
+  "messages": [
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explain pythagorus theorem with examples",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nExplain pythagorus theorem with examples\n\n"
+        }
+      ],
+      "id": "062e7302-5210-4d3f-b5e8-a729d07ff58c",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Math/Solutions/ทฤษฎีบทพีทาโกรัส.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explain pythagorus theorem with examples",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nExplain pythagorus theorem with examples\n\n"
+        }
+      ],
+      "id": "2c69e448-8fef-4f29-8b5c-ceaae00789e5",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Math/Solutions/ทฤษฎีบทพีทาโกรัส.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "<smtcmp_block filename=\"Math/Solutions/ยังไม่ได้ตั้งชื่อ.md\" language=\"markdown\">\n# ทฤษฎีบทพีทาโกรัส ($\\text{Pythagorean Theorem}$)\n\n**คำอธิบาย:**\nทฤษฎีบทนี้ระบุความสัมพันธ์ของด้านทั้งสามในสามเหลี่ยมมุมฉาก โดยกำลังสองของด้านตรงข้ามมุมฉากจะเท่ากับผลรวมของกำลังสองของอีกสองด้านเสมอ\n$$c^2 = a^2 + b^2$$\nเมื่อ:\n- $c$ คือ ด้านตรงข้ามมุมฉาก ($\\text{Hypotenuse}$)\n- $a$ และ $b$ คือ ด้านประกอบมุมฉาก ($\\text{Legs}$)\n\n---\n\n## ตัวอย่างการประยุกต์ใช้\n\n### $\\textbf{ตัวอย่างที่ 1:}$ หาค่า $c$ เมื่อทราบ $a$ และ $b$\nให้ $a = 3$ และ $b = 4$\n$$\n\\begin{aligned}\nc^2 &= 3^2 + 4^2 \\\\\nc^2 &= 9 + 16 \\\\\nc^2 &= 25 \\\\\nc &= \\sqrt{25} = 5\n\\end{aligned}\n$$\n\n### $\\textbf{ตัวอย่างที่ 2:}$ หาค่า $b$ เมื่อทราบ $c$ และ $a$\nให้ $c = 10$ และ $a = 6$\n$$\n\\begin{aligned}\n10^2 &= 6^2 + b^2 \\\\\n100 &= 36 + b^2 \\\\\nb^2 &= 100 - 36 \\\\\nb^2 &= 64 \\\\\nb &= \\sqrt{64} = 8\n\\end{aligned}\n$$\n\n---\n\n## $\\textit{หมายเหตุ}$\nชุดคำตอบที่เป็นจำนวนเต็มซึ่งสอดคล้องกับสมการนี้เรียกว่า $\\text{Pythagorean Triples}$ เช่น $(3, 4, 5), (5, 12, 13), (7, 24, 25)$ ซึ่งสามารถจดจำเพื่อลดขั้นตอนการคำนวณได้\n</smtcmp_block>",
+      "id": "5d1ef672-1104-400b-adda-6af75a1e0475",
+      "metadata": {
+        "model": {
+          "providerId": "openrouter",
+          "providerType": "openrouter",
+          "id": "qwen/qwen3.7-flash",
+          "model": "qwen/qwen3.7-flash",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 589,
+          "completion_tokens": 3397,
+          "total_tokens": 3986,
+          "cost": 0.00045928,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00045928,
+            "upstream_inference_prompt_cost": 0.00001767,
+            "upstream_inference_completions_cost": 0.00044161
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 2931,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explain pythagorus theorem with examples",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nExplain pythagorus theorem with examples\n\n"
+        }
+      ],
+      "id": "3ea7c7fe-e267-46e3-ad43-a9511eb7c482",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Math/Solutions/ทฤษฎีบทพีทาโกรัส.md"
+        }
+      ]
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explain pythagorus theorem with examples",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nExplain pythagorus theorem with examples\n\n"
+        }
+      ],
+      "id": "fdbb674b-8546-4578-8161-682b1e00f6d4",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "Math/Solutions/ทฤษฎีบทพีทาโกรัส.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "# ทฤษฎีบทพีทาโกรัส (Pythagorean Theorem)\n\n## 📐 คำจำกัดความ\n\nทฤษฎีบทพีทาโกรัสเป็นความสัมพันธ์ระหว่างด้านทั้งสามของ **สามเหลี่ยมมุมฉาก** กล่าวคือ\n\n> กำลังสองของด้านตรงข้ามมุมฉาก ($c$) เท่ากับ ผลรวมของกำลังสองของด้านประกอบมุมฉากทั้งสอง ($a$ และ $b$)\n\n## 📝 สูตร\n\n$$c^2 = a^2 + b^2$$\n\nหรือเขียนในรูปแบบอื่น:\n\n$$a^2 = c^2 - b^2$$\n$$b^2 = c^2 - a^2$$\n\n## 📊 แผนภาพ\n\n```svg\n<svg width=\"400\" height=\"300\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- Background -->\n  <rect width=\"100%\" height=\"100%\" fill=\"#1e1e1e\"/>\n  \n  <!-- Right Triangle -->\n  <polygon points=\"50,250 250,250 50,50\" fill=\"#2d3748\" stroke=\"#4fd1c5\" stroke-width=\"3\"/>\n  \n  <!-- Right angle marker -->\n  <polyline points=\"50,220 80,220 80,250\" fill=\"none\" stroke=\"#f6e05e\" stroke-width=\"2\"/>\n  \n  <!-- Labels -->\n  <text x=\"140\" y=\"275\" fill=\"#4fd1c5\" font-size=\"18\" font-family=\"Arial\">a</text>\n  <text x=\"20\" y=\"155\" fill=\"#4fd1c5\" font-size=\"18\" font-family=\"Arial\">b</text>\n  <text x=\"165\" y=\"145\" fill=\"#fc8181\" font-size=\"18\" font-family=\"Arial\" font-weight=\"bold\">c</text>\n  \n  <!-- Values -->\n  <text x=\"130\" y=\"275\" fill=\"#9ae6b4\" font-size=\"14\" font-family=\"Arial\">(3)</text>\n  <text x=\"20\" y=\"175\" fill=\"#9ae6b4\" font-size=\"14\" font-family=\"Arial\">(4)</text>\n  <text x=\"175\" y=\"165\" fill=\"#fed7d7\" font-size=\"14\" font-family=\"Arial\">(5)</text>\n  \n  <!-- Title -->\n  <text x=\"100\" y=\"30\" fill=\"#e2e8f0\" font-size=\"16\" font-family=\"Arial\" font-weight=\"bold\">สามเหลี่ยมมุมฉาก 3-4-5</text>\n</svg>\n```\n\n## 💡 ตัวอย่างที่ 1: หาด้านตรงข้ามมุมฉาก\n\n**โจทย์:** สามเหลี่ยมมุมฉากมีด้านประกอบมุมฉาก $a = 3$ และ $b = 4$ หาด้านตรงข้ามมุมฉาก\n\n**วิธีทำ:**\n\n$$\n\\begin{aligned}\nc^2 &= a^2 + b^2 \\\\\nc^2 &= 3^2 + 4^2 \\\\\nc^2 &= 9 + 16 \\\\\nc^2 &= 25 \\\\\nc &= \\sqrt{25} \\\\\nc &= 5\n\\end{aligned}\n$$\n\n## 💡 ตัวอย่างที่ 2: หาด้านประกอบมุมฉาก\n\n**โจทย์:** สามเหลี่ยมมุมฉากมีด้านตรงข้ามมุมฉาก $c = 13$ และด้านประกอบมุมฉากหนึ่ง $a = 5$ หาอีกด้าน\n\n**วิธีทำ:**\n\n$$\n\\begin{aligned}\nb^2 &= c^2 - a^2 \\\\\nb^2 &= 13^2 - 5^2 \\\\\nb^2 &= 169 - 25 \\\\\nb^2 &= 144 \\\\\nb &= \\sqrt{144} \\\\\nb &= 12\n\\end{aligned}\n$$\n\n## 🔢 ชุดตัวเลขพีทาโกรัสที่พบบ่อย\n\n| ชุดค่า | ตรวจสอบ |\n|:------:|:-------:|\n| $(3, 4, 5)$ | $3^2 + 4^2 = 9 + 16 = 25 = 5^2$ ✓ |\n| $(5, 12, 13)$ | $5^2 + 12^2 = 25 + 144 = 169 = 13^2$ ✓ |\n| $(8, 15, 17)$ | $8^2 + 15^2 = 64 + 225 = 289 = 17^2$ ✓ |\n| $(7, 24, 25)$ | $7^2 + 24^2 = 49 + 576 = 625 = 25^2$ ✓ |\n\n## 🎯 วิธีจำแนกด้าน\n\n- **ด้านตรงข้ามมุมฉาก ($c$):** เป็นด้านที่ยาวที่สุดในสามเหลี่ยมมุมฉาก\n- **ด้านประกอบมุมฉาก ($a, b$):** เป็นด้านที่ล้อมุมฉาก ($90°$)\n\n---\n\n> **เคล็ดลับ:** หากเจอเลขสามหลักที่เป็นหนึ่งในชุดข้างต้น ให้ใช้สูตรได้ทันทีโดยไม่ต้องคำนวณซ้ำ! 🧠",
+      "id": "7eab6e46-8749-4ab2-a50b-91c47c4e8cb6",
+      "metadata": {
+        "model": {
+          "providerId": "openrouter",
+          "providerType": "openrouter",
+          "id": "xiaomi/mimo-v2.5",
+          "model": "xiaomi/mimo-v2.5",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 1133,
+          "completion_tokens": 1493,
+          "total_tokens": 2626,
+          "cost": 0.00057666,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 0,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.00057666,
+            "upstream_inference_prompt_cost": 0.00015862,
+            "upstream_inference_completions_cost": 0.00041804
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      }
+    },
+    {
+      "role": "user",
+      "content": {
+        "root": {
+          "children": [
+            {
+              "children": [
+                {
+                  "detail": 0,
+                  "format": 0,
+                  "mode": "normal",
+                  "style": "",
+                  "text": "Explain hyperbola",
+                  "type": "text",
+                  "version": 1
+                }
+              ],
+              "direction": "ltr",
+              "format": "",
+              "indent": 0,
+              "type": "paragraph",
+              "version": 1,
+              "textFormat": 0,
+              "textStyle": ""
+            }
+          ],
+          "direction": "ltr",
+          "format": "",
+          "indent": 0,
+          "type": "root",
+          "version": 1
+        }
+      },
+      "promptContent": [
+        {
+          "type": "text",
+          "text": "\n\nExplain hyperbola\n\n"
+        }
+      ],
+      "id": "7d7da723-af57-4f26-a6ec-8d20ac176252",
+      "mentionables": [
+        {
+          "type": "current-file",
+          "file": "ยังไม่ได้ตั้งชื่อ.md"
+        }
+      ]
+    },
+    {
+      "role": "assistant",
+      "content": "# ไฮเพอร์โบลา (Hyperbola)\n\n## 📐 คำจำกัดความ\n\n**ไฮเพอร์โบลา** คือ ลักษณะเฉพาะของจุดบนระนาบที่มีระยะห่างจากจุดคงที่ 2 จุด (เรียกว่า **จุดโฟกัส**) ต่างกันด้วยค่าคงที่\n\n$$|d_1 - d_2| = 2a$$\n\nเมื่อ $2a$ คือ ความต่างของระยะทางคงที่\n\n## 📝 สูตรมาตรฐาน\n\n### 1. ไฮเพอร์โบลาแนวนอน ( opening ซ้าย-ขวา)\n\n$$\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$$\n\n### 2. ไฮเพอร์โบลาแนวตั้ง ( opening ขึ้น-ลง)\n\n$$\\frac{y^2}{a^2} - \\frac{x^2}{b^2} = 1$$\n\n## 📊 องค์ประกอบสำคัญ\n\n| องค์ประกอบ | สัญลักษณ์ | คำอธิบาย |\n|:----------:|:---------:|:--------:|\n| จุดศูนย์กลาง | $(h, k)$ | จุดกึ่งกลางระหว่างจุดโฟกัสทั้งสอง |\n| จุดยอด | $(h \\pm a, k)$ หรือ $(h, k \\pm a)$ | จุดที่เส้นโค้งตัดแกนหลัก |\n| จุดโฟกัส | $(h \\pm c, k)$ หรือ $(h, k \\pm c)$ | จุดอ้างอิงภายในสูตร |\n| จุดกำกับ | - | กำหนดรูปร่างของกรวย |\n| สมการเชิงสัมพันธ์ | $c^2 = a^2 + b^2$ | ความสัมพันธ์ระหว่าง $a$, $b$, และ $c$ |\n| แนวทาง (Asymptotes) | $y = \\pm \\frac{b}{a}x$ | เส้นตรงที่เส้นโค้งเข้าใกล้แต่ไม่ตัด |\n\n## 📈 แผนภาพกราฟ\n\n```svg\n<svg width=\"500\" height=\"400\" xmlns=\"http://www.w3.org/2000/svg\">\n  <!-- Background -->\n  <rect width=\"100%\" height=\"100%\" fill=\"#1e1e1e\"/>\n  \n  <!-- Grid -->\n  <g stroke=\"#333\" stroke-width=\"1\">\n    <!-- Vertical lines -->\n    <line x1=\"50\" y1=\"20\" x2=\"50\" y2=\"380\"/>\n    <line x1=\"100\" y1=\"20\" x2=\"100\" y2=\"380\"/>\n    <line x1=\"150\" y1=\"20\" x2=\"150\" y2=\"380\"/>\n    <line x1=\"200\" y1=\"20\" x2=\"200\" y2=\"380\"/>\n    <line x1=\"250\" y1=\"20\" x2=\"250\" y2=\"380\"/>\n    <line x1=\"300\" y1=\"20\" x2=\"300\" y2=\"380\"/>\n    <line x1=\"350\" y1=\"20\" x2=\"350\" y2=\"380\"/>\n    <line x1=\"400\" y1=\"20\" x2=\"400\" y2=\"380\"/>\n    <line x1=\"450\" y1=\"20\" x2=\"450\" y2=\"380\"/>\n    <!-- Horizontal lines -->\n    <line x1=\"20\" y1=\"50\" x2=\"480\" y2=\"50\"/>\n    <line x1=\"20\" y1=\"100\" x2=\"480\" y2=\"100\"/>\n    <line x1=\"20\" y1=\"150\" x2=\"480\" y2=\"150\"/>\n    <line x1=\"20\" y1=\"200\" x2=\"480\" y2=\"200\"/>\n    <line x1=\"20\" y1=\"250\" x2=\"480\" y2=\"250\"/>\n    <line x1=\"20\" y1=\"300\" x2=\"480\" y2=\"300\"/>\n    <line x1=\"20\" y1=\"350\" x2=\"480\" y2=\"350\"/>\n  </g>\n  \n  <!-- Axes -->\n  <line x1=\"20\" y1=\"200\" x2=\"480\" y2=\"200\" stroke=\"#666\" stroke-width=\"2\"/>\n  <line x1=\"250\" y1=\"20\" x2=\"250\" y2=\"380\" stroke=\"#666\" stroke-width=\"2\"/>\n  \n  <!-- Asymptotes -->\n  <line x1=\"50\" y1=\"60\" x2=\"450\" y2=\"340\" stroke=\"#f6e05e\" stroke-width=\"1.5\" stroke-dasharray=\"8,4\" opacity=\"0.7\"/>\n  <line x1=\"50\" y1=\"340\" x2=\"450\" y2=\"60\" stroke=\"#f6e05e\" stroke-width=\"1.5\" stroke-dasharray=\"8,4\" opacity=\"0.7\"/>\n  \n  <!-- Left branch of hyperbola -->\n  <path d=\"M 130,200 Q 90,150 50,40\" fill=\"none\" stroke=\"#4fd1c5\" stroke-width=\"3\"/>\n  <path d=\"M 130,200 Q 90,250 50,360\" fill=\"none\" stroke=\"#4fd1c5\" stroke-width=\"3\"/>\n  \n  <!-- Right branch of hyperbola -->\n  <path d=\"M 370,200 Q 410,150 450,40\" fill=\"none\" stroke=\"#4fd1c5\" stroke-width=\"3\"/>\n  <path d=\"M 370,200 Q 410,250 450,360\" fill=\"none\" stroke=\"#4fd1c5\" stroke-width=\"3\"/>\n  \n  <!-- Vertices -->\n  <circle cx=\"130\" cy=\"200\" r=\"6\" fill=\"#fc8181\"/>\n  <circle cx=\"370\" cy=\"200\" r=\"6\" fill=\"#fc8181\"/>\n  \n  <!-- Foci -->\n  <circle cx=\"70\" cy=\"200\" r=\"5\" fill=\"#9ae6b4\"/>\n  <circle cx=\"430\" cy=\"200\" r=\"5\" fill=\"#9ae6b4\"/>\n  \n  <!-- Center -->\n  <circle cx=\"250\" cy=\"200\" r=\"5\" fill=\"#f6e05e\"/>\n  \n  <!-- Labels -->\n  <text x=\"245\" y=\"225\" fill=\"#f6e05e\" font-size=\"12\" font-family=\"Arial\">(h,k)</text>\n  <text x=\"125\" y=\"225\" fill=\"#fc8181\" font-size=\"11\" font-family=\"Arial\">จุดยอด</text>\n  <text x=\"365\" y=\"225\" fill=\"#fc8181\" font-size=\"11\" font-family=\"Arial\">จุดยอด</text>\n  <text x=\"55\" y=\"195\" fill=\"#9ae6b4\" font-size=\"11\" font-family=\"Arial\">F₁</text>\n  <text x=\"425\" y=\"195\" fill=\"#9ae6b4\" font-size=\"11\" font-family=\"Arial\">F₂</text>\n  \n  <!-- Title -->\n  <text x=\"150\" y=\"395\" fill=\"#e2e8f0\" font-size=\"14\" font-family=\"Arial\" font-weight=\"bold\">Hyperbola (แนวนอน)</text>\n  \n  <!-- Legend -->\n  <rect x=\"30\" y=\"35\" width=\"180\" height=\"65\" fill=\"#2d3748\" rx=\"5\"/>\n  <circle cx=\"45\" cy=\"50\" r=\"5\" fill=\"#fc8181\"/>\n  <text x=\"55\" y=\"55\" fill=\"#e2e8f0\" font-size=\"11\" font-family=\"Arial\">จุดยอด (Vertices)</text>\n  <circle cx=\"45\" cy=\"70\" r=\"5\" fill=\"#9ae6b4\"/>\n  <text x=\"55\" y=\"75\" fill=\"#e2e8f0\" font-size=\"11\" font-family=\"Arial\">จุดโฟกัส (Foci)</text>\n  <line x1=\"35\" y1=\"88\" x2=\"55\" y2=\"88\" stroke=\"#f6e05e\" stroke-width=\"1.5\" stroke-dasharray=\"4,2\"/>\n  <text x=\"55\" y=\"93\" fill=\"#e2e8f0\" font-size=\"11\" font-family=\"Arial\">แนวทาง (Asymptotes)</text>\n</svg>\n```\n\n## 💡 ตัวอย่างที่ 1: แยกส่วนประกอบ\n\n**โจทย์:** จงแยกส่วนประกอบของสมการ\n\n$$\\frac{x^2}{9} - \\frac{y^2}{16} = 1$$\n\n**วิธีทำ:**\n\nเปรียบเทียบกับสูตรมาตรฐาน $\\frac{x^2}{a^2} - \\frac{y^2}{b^2} = 1$\n\n$$\n\\begin{aligned}\na^2 &= 9 \\Rightarrow a = 3 \\\\\nb^2 &= 16 \\Rightarrow b = 4 \\\\\nc^2 &= a^2 + b^2 = 9 + 16 = 25 \\Rightarrow c = 5\n\\end{aligned}\n$$\n\n| องค์ประกอบ | ค่า |\n|:----------:|:---:|\n| จุดศูนย์กลาง | $(0, 0)$ |\n| จุดยอด | $(\\pm 3, 0)$ |\n| จุดโฟกัส | $(\\pm 5, 0)$ |\n| แนวทาง | $y = \\pm \\frac{4}{3}x$ |\n\n---\n\n## 💡 ตัวอย่างที่ 2: เขียนสูตรจากข้อมูล\n\n**โจทย์:** ไฮเพอร์โบลามีจุดโฟกัสที่ $(0, \\pm 5)$ และจุดยอดที่ $(0, \\pm 3)$ จงเขียนสมการ\n\n**วิธีทำ:**\n\nเนื่องจากจุดโฟกัสและจุดยอดอยู่บนแกน $y$ → เป็น **ไฮเพอร์โบลาแนวตั้ง**\n\n$$\n\\begin{aligned}\na &= 3, \\quad c = 5 \\\\\nb^2 &= c^2 - a^2 = 25 - 9 = 16\n\\end{aligned}\n$$\n\n$$\\boxed{\\frac{y^2}{9} - \\frac{x^2}{16} = 1}$$\n\n---\n\n## 📌 วิธีจำแนก\n\n| สังเกตจาก | แนวนอน | แนวตั้ง |\n|:---------:|:------:|:------:|\n| ตัวบวก | $x^2$ ก่อน | $y^2$ ก่อน |\n| จุดยอด | อยู่บนแกน $x$ | อยู่บนแกน $y$ |\n| จุดโฟกัส | อยู่บนแกน $x$ | อยู่บนแกน $y$ |\n| แนวทาง | $y = \\pm \\frac{b}{a}x$ | $y = \\pm \\frac{a}{b}x$ |",
+      "id": "35d0bc9c-90c2-4730-8e66-3e2f180f2faf",
+      "metadata": {
+        "model": {
+          "providerId": "openrouter",
+          "providerType": "openrouter",
+          "id": "xiaomi/mimo-v2.5",
+          "model": "xiaomi/mimo-v2.5",
+          "promptLevel": 1,
+          "enable": true
+        },
+        "usage": {
+          "prompt_tokens": 2497,
+          "completion_tokens": 2875,
+          "total_tokens": 5372,
+          "cost": 0.0010053064,
+          "is_byok": false,
+          "prompt_tokens_details": {
+            "cached_tokens": 1088,
+            "cache_write_tokens": 0,
+            "audio_tokens": 0,
+            "video_tokens": 0
+          },
+          "cost_details": {
+            "upstream_inference_cost": 0.0010053064,
+            "upstream_inference_prompt_cost": 0.0002003064,
+            "upstream_inference_completions_cost": 0.000805
+          },
+          "completion_tokens_details": {
+            "reasoning_tokens": 0,
+            "image_tokens": 0,
+            "audio_tokens": 0
+          }
+        }
+      }
+    }
+  ],
+  "createdAt": 1787493830516,
+  "updatedAt": 1787494319891,
+  "schemaVersion": 1
+}
