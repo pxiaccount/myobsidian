@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math/Theory/Binomial.md",
+                "file": "Math/ข้อ 59.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Binomial"
+              "title": "ข้อ 59"
             }
           }
         ]
@@ -191,10 +191,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a00ef8208e3572d4",
+  "active": "cf91c9b4847b06c8",
   "lastOpenFiles": [
-    "Math/Theory/Probability.md",
+    "Math/ข้อ_26_พหุนามดีกรีสาม.md",
+    "Math/ข้อ_25_สมการลอการิทึม.md",
+    "Math/ข้อ_24_ฟังก์ชันเอกซ์โพเนนเชียล.md",
+    "Math/ข้อ 57.md",
+    "Math/ข้อ 45 LIS.md",
+    "Math/keplers_law_explanation.md",
+    "Math/Solutions/GM24",
+    "Math/12_hyperbola_line_thai.md",
+    "Math/11_parabola_on_x_axis.md",
+    "Math/Theory/สรุปเนื้อหา_ทฤษฎีบททวินาม_Zero_to_Hero.md",
+    "Math/Theory/เทคนิคการหาจำนวนคู่อันดับ_Ordered_Tuples.md",
     "Math/Theory/Binomial.md",
+    "Math/Theory/ทฤษฎีบททวินาม_Binomial_Theorem.md",
+    "Math/Theory/Probability.md",
     "Math/Theory/Untitled.md",
     "ยังไม่ได้ตั้งชื่อ.md",
     "Math/เฉลยโจทย์อสมการค่าสัมบูรณ์_ข้อ12.md",
@@ -207,17 +219,6 @@
     "Math/เฉลยโจทย์ตรรกศาสตร์_Contradiction.md",
     "Math/เฉลยโจทย์จำนวนสมาชิกของเซต_ข้อ15.md",
     "Math/เฉลยโจทย์ความสัมพันธ์และฟังก์ชัน_ข้อ9.md",
-    "Math/เฉลยโจทย์กราฟค่าสัมบูรณ์_ข้อ21.md",
-    "Math/ข้อ_26_พหุนามดีกรีสาม.md",
-    "Math/ข้อ_25_สมการลอการิทึม.md",
-    "Math/ข้อ_24_ฟังก์ชันเอกซ์โพเนนเชียล.md",
-    "Math/ข้อ 59.md",
-    "Math/ข้อ 58.md",
-    "Math/ข้อ 57.md",
-    "Math/ข้อ 56.md",
-    "Math/ข้อ 55.md",
-    "Math/ข้อ 54.md",
-    "Math/ข้อ 53.md",
-    "Math/ข้อ 52.md"
+    "Math/เฉลยโจทย์กราฟค่าสัมบูรณ์_ข้อ21.md"
   ]
 }
