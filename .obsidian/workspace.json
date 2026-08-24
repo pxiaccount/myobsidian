@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ยังไม่ได้ตั้งชื่อ.md",
+                "file": "Math/Theory/Binomial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ยังไม่ได้ตั้งชื่อ"
+              "title": "Binomial"
             }
           }
         ]
@@ -191,8 +191,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c2a6eb3a66a6a721",
+  "active": "a00ef8208e3572d4",
   "lastOpenFiles": [
+    "Math/Theory/Probability.md",
+    "Math/Theory/Binomial.md",
+    "Math/Theory/Untitled.md",
     "ยังไม่ได้ตั้งชื่อ.md",
     "Math/เฉลยโจทย์อสมการค่าสัมบูรณ์_ข้อ12.md",
     "Math/เฉลยโจทย์สมการเอกซ์โพเนนเชียล_ข้อ22.md",
@@ -215,9 +218,6 @@
     "Math/ข้อ 55.md",
     "Math/ข้อ 54.md",
     "Math/ข้อ 53.md",
-    "Math/ข้อ 52.md",
-    "Math/ข้อ 50.md",
-    "Math/ข้อ 48-49.md",
-    "Math/ข้อ 47.md"
+    "Math/ข้อ 52.md"
   ]
 }
