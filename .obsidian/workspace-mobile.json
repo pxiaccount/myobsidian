@@ -1,24 +1,20 @@
 {
   "main": {
-    "id": "6abba1f7aa71b8a3",
+    "id": "88911b3b1ce1fc14",
     "type": "split",
     "children": [
       {
-        "id": "019938f8158fa16a",
+        "id": "b039bfff34c95a8a",
         "type": "tabs",
         "children": [
           {
-            "id": "c071d7d7b3308277",
+            "id": "9f5e1cc1206d538e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README.md"
+              "title": "แท็บใหม่"
             }
           }
         ]
@@ -27,11 +23,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7e3e6c1f639a7127",
+    "id": "149ffe660dac1657",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "974a9b43614ce799",
+        "id": "dfd35617727dc5b7",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -46,7 +42,7 @@
         }
       },
       {
-        "id": "2e2efd853060f1af",
+        "id": "25b432e6ec30a981",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -63,7 +59,7 @@
         }
       },
       {
-        "id": "574b2fc18198813a",
+        "id": "a872cb832445f8b2",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -78,7 +74,7 @@
         }
       },
       {
-        "id": "df1f6aa91f3aafee",
+        "id": "a26bb140eb42bfe9",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -92,7 +88,7 @@
         }
       },
       {
-        "id": "539ae146950627a7",
+        "id": "31dd283d2650143c",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -108,16 +104,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "c21b45944f4ba3dc",
+    "id": "caad8395a959e902",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "5fea58584f63d53f",
+        "id": "b4a4ac0dcaf2971e",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,12 +126,11 @@
         }
       },
       {
-        "id": "a5bbb4b078dc8023",
+        "id": "9f68c1956b682af0",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,12 +139,11 @@
         }
       },
       {
-        "id": "6e541dab0c97b1f5",
+        "id": "f0cbd6093a09023d",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -174,42 +167,41 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c071d7d7b3308277",
+  "active": "9f5e1cc1206d538e",
   "lastOpenFiles": [
-    "README.md.md",
-    "Math/Theory/เทคนิคการหาจำนวนคู่อันดับ_Ordered_Tuples.md",
     "Math/Solutions/GM24/ข้อ 47.md",
-    "Math/Solutions/POSN66/ข้อ 9.md",
-    "Math/Solutions/GM24/ข้อ 48.md",
-    "Math/Solutions/GM24/ข้อ 52.md",
-    "Math/Solutions/POSN66/ข้อ 19.md",
-    "Math/Solutions/POSN66/ข้อ 23.md",
-    "Math/Solutions/GM24/ข้อ 49.md",
     "Math/Solutions/GM24/ข้อ 53.md",
-    "Math/Solutions/GM24/ข้อ 54.md",
-    "Math/Solutions/GM24/ข้อ 55.md",
-    "Math/Solutions/POSN66/ข้อ 25.md",
-    "Math/Solutions/GM24/ข้อ 56.md",
-    "Math/Solutions/GM24/ข้อ 57.md",
     "Math/Solutions/POSN66/ข้อ 22.md",
-    "Math/Solutions/GM24/ข้อ 58.md",
-    "Math/Solutions/GM24/ข้อ 59.md",
-    "Math/Solutions/POSN66/ข้อ 24.md",
-    "Math/Solutions/GM24/ข้อ 45.md",
-    "Math/Solutions/POSN66/ข้อ 21.md",
-    "Math/Solutions/GM24/ข้อ 46.md",
-    "Math/Solutions/POSN66/ข้อ 26.md",
-    "Math/Solutions/GM24/ข้อ 50.md",
-    "package.json",
-    "package-lock.json",
-    "opencode.json",
-    "~",
-    "Math/Theory/สรุปเนื้อหา_ทฤษฎีบททวินาม_Zero_to_Hero.md",
+    "Math/Solutions/GM24/ข้อ 57.md",
+    "Math/Assets/parabola_graph.svg",
     "Math/Theory/binomial.md",
+    "Math/Solutions/POSN66/ข้อ 25.md",
+    "Math/Solutions/GM24/ข้อ 50.md",
+    "Math/Solutions/GM24/ข้อ 54.md",
+    "Math/Solutions/GM24/ข้อ 48.md",
+    "Math/Assets/abs_graph.svg",
+    "Math/Solutions/GM24/ข้อ 58.md",
+    "Math/Solutions/POSN66/ข้อ 23.md",
+    "Math/Theory/เทคนิคการหาจำนวนคู่อันดับ_Ordered_Tuples.md",
+    "Math/Solutions/GM24/ข้อ 45.md",
+    "Math/Solutions/POSN66/ข้อ 19.md",
+    "Math/Solutions/GM24/ข้อ 49.md",
+    "README.md.md",
+    "package.json",
+    "Math/Solutions/GM24/ข้อ 55.md",
+    "Math/Solutions/POSN66/ข้อ 26.md",
+    "Math/Solutions/GM24/ข้อ 59.md",
+    "Math/Solutions/POSN66/ข้อ 21.md",
+    "Math/Theory/สรุปเนื้อหา_ทฤษฎีบททวินาม_Zero_to_Hero.md",
+    "Math/Solutions/GM24/ข้อ 46.md",
+    "opencode.json",
+    "package-lock.json",
+    "Math/Solutions/GM24/ข้อ 52.md",
+    "Math/Solutions/POSN66/ข้อ 9.md",
+    "Math/Solutions/POSN66/ข้อ 24.md",
+    "Math/Solutions/GM24/ข้อ 56.md",
     "Math/Solutions/GM24",
     "Math/Solutions/POSN66",
-    "Math/Assets/abs_graph.svg",
-    "Math/Assets/parabola_graph.svg",
     "Math/Theory",
     "Math/Solutions",
     "Math/Assets",
