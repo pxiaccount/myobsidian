@@ -178,8 +178,8 @@
             "state": {
               "type": "smtcmp-chat-view",
               "state": {},
-              "icon": "wand-sparkles",
-              "title": "Smart composer chat"
+              "icon": "lucide-ghost",
+              "title": "smtcmp-chat-view"
             }
           }
         ],
@@ -198,13 +198,36 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "smart-composer:Open smart composer": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "cf91c9b4847b06c8",
   "lastOpenFiles": [
-    "ทฤษฎีบทพีทาโกรัส.md",
-    "ยังไม่ได้ตั้งชื่อ.md"
+    "Math/เฉลยโจทย์อสมการค่าสัมบูรณ์_ข้อ12.md",
+    "Math/เฉลยโจทย์สมการเอกซ์โพเนนเชียล_ข้อ22.md",
+    "Math/เฉลยโจทย์สมการค่าสัมบูรณ์_ข้อ14.md",
+    "Math/เฉลยโจทย์ฟังก์ชันตรรกยะ_ข้อ11.md",
+    "Math/เฉลยโจทย์พาราโบลา_ข้อ19.md",
+    "Math/เฉลยโจทย์พหุนาม_ข้อ26.md",
+    "Math/เฉลยโจทย์ทฤษฎีบททวินาม_ข้อ7.md",
+    "Math/เฉลยโจทย์ตรรกศาสตร์_Contradiction.md",
+    "Math/เฉลยโจทย์จำนวนสมาชิกของเซต_ข้อ15.md",
+    "Math/เฉลยโจทย์ความสัมพันธ์และฟังก์ชัน_ข้อ9.md",
+    "Math/เฉลยโจทย์กราฟค่าสัมบูรณ์_ข้อ21.md",
+    "Math/ข้อ_26_พหุนามดีกรีสาม.md",
+    "Math/ข้อ_25_สมการลอการิทึม.md",
+    "Math/ข้อ_24_ฟังก์ชันเอกซ์โพเนนเชียล.md",
+    "Math/ข้อ 59.md",
+    "Math/ข้อ 58.md",
+    "Math/ข้อ 57.md",
+    "Math/ข้อ 56.md",
+    "Math/ข้อ 55.md",
+    "Math/ข้อ 54.md",
+    "Math/ข้อ 53.md",
+    "Math/ข้อ 52.md",
+    "Math/ข้อ 50.md",
+    "Math/ข้อ 48-49.md",
+    "Math/ข้อ 47.md",
+    "Math/ข้อ 46.md"
   ]
 }
