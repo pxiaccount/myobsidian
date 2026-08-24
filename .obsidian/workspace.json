@@ -171,19 +171,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "65636cee2a6c57b2",
-            "type": "leaf",
-            "state": {
-              "type": "smtcmp-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "smtcmp-chat-view"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -201,8 +191,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf91c9b4847b06c8",
+  "active": "c2a6eb3a66a6a721",
   "lastOpenFiles": [
+    "ยังไม่ได้ตั้งชื่อ.md",
     "Math/เฉลยโจทย์อสมการค่าสัมบูรณ์_ข้อ12.md",
     "Math/เฉลยโจทย์สมการเอกซ์โพเนนเชียล_ข้อ22.md",
     "Math/เฉลยโจทย์สมการค่าสัมบูรณ์_ข้อ14.md",
@@ -227,7 +218,6 @@
     "Math/ข้อ 52.md",
     "Math/ข้อ 50.md",
     "Math/ข้อ 48-49.md",
-    "Math/ข้อ 47.md",
-    "Math/ข้อ 46.md"
+    "Math/ข้อ 47.md"
   ]
 }
